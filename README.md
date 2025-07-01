@@ -27,3 +27,8 @@ Stay tuned — more coming soon!
 ## 📂 Datasets
 
 - `lettuce_dataset.xlsx` — Kaggle dataset for practicing real EDA steps.
+## 📂 Datasets
+
+- `lettuce_dataset.xlsx` — Kaggle dataset for practicing real EDA steps.
+- `lettuce_cleaned_with_mean.xlsx` — Cleaned lettuce dataset with duplicates removed & average values added.
+
