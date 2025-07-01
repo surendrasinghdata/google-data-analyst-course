@@ -24,3 +24,6 @@ I will upload new files each week as I finish lessons and projects.
 Complete the certificate → build real projects → get hired as a Data Analyst.
 
 Stay tuned — more coming soon!
+## 📂 Datasets
+
+- `lettuce_dataset.xlsx` — Kaggle dataset for practicing real EDA steps.
