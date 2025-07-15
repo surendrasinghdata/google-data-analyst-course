@@ -4,7 +4,7 @@ Hi, I’m Surendra Singh — I’m learning Data Analysis step by step through t
 
 ## 📚 Progress
 
-✔️ Completed: 5 out of 9 courses  
+✔️ Completed: 6 out of 9 courses  
 ✔️ Skills: Excel, Data Cleaning, SQL Basics, EDA (Exploratory Data Analysis)  
 ✔️ Next: Final courses, capstone, and job prep
 
